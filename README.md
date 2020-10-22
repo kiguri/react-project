@@ -15,7 +15,7 @@ Live demo: https://huyhq.herokuapp.com/
 * Firebase (Authentication, Cloud Firestore)
 * Stripe payment
 
-##Usage
+## Usage
 * Install Nodejs
 * Clone this repository
 * Configure your firebase
